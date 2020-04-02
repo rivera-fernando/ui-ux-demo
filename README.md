@@ -28,17 +28,17 @@ The entire goal of designing a "good" UI and UX revolves around a happy user. Th
 
 - **Q/A Interfaces** - Think prompts, leading you to the end result (whenever you install software)
 - **Menu Interfaces** - Think multiple available selections (the menu bar, duh)
-- **Form Interfaces** - Think user input (login, etc.)
+- **Form Interfaces** - Think user input in fields (login, etc.)
 
 #### Command-Language Interface
 
-- **Command-Line** - Can be wonderful if users know what they are doing
+- **Command-Line** - Can be wonderful if users know what they're doing
 
 ### UI Schools of Thought / Design Languages
 
 - [Material Design](https://material.io)
   - I won't bore you with lines of text, just listen to my sweet voice.
-- Invisible UI
+- [Invisible UI](https://www.usertesting.com/blog/invisible-ui)
   - More listening
 - There are more, try looking at [this](https://design-languages.com/)
 
@@ -54,7 +54,9 @@ The entire goal of designing a "good" UI and UX revolves around a happy user. Th
 
 ## Bad UI (personally)
 
-- 
+- [User Inyerface](https://userinyerface.com/) is the best example of what not to do, and we'll go through some aspects of it, but it was made to highlight these flaws.
+- [Arngren](http://arngren.net/)
+- [Pacific Northwest X-Ray Inc](http://www.pnwx.com/)
 
 
 
