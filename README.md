@@ -14,13 +14,13 @@
 
 ### Personally:
 
-While everyone seems to have their own definitions of UI and UX these days, I consider UI to be any entity that the user of a product interacts with. Designing a UI involves the styling of these entities. On the other hand, UX is the feeling and, obviously, experience that the user derives from interacting with the product. I will be clear, **a good UI is part of creating a good UX** but **a good UI does not automatically create a good UX**.
+While everyone seems to have their own definitions of UI and UX these days, I consider a UI to be the sum of all entities the user of a product interacts with. Designing a UI involves the styling of these entities. On the other hand, UX is the feeling and, obviously, experience that the user derives from interacting with the product. I will be clear, **a good UI is part of creating a good UX** but **a good UI does not automatically create a good UX**.
 
 
 
 ## Everything's subjective
 
-The entire goal of designing a "good" UI and UX revolves around a happy user. The end-goal is keeping the user hooked, engaged, and wanting more. If they can enjoy using your product, there's a better chance they will keep using it and recommend it to their friends! (given it actually has proper functionality as well) However, everyone has different ideas of what a good UI and UX revolves around. I'll go into a few different schools of thought.
+The entire goal of designing a "good" UI and UX revolves around a happy user. The end-goal is keeping the user hooked, engaged, and wanting more. If they can enjoy using your product, there's a better chance they will keep using it and recommend it to their friends! (given it actually has proper functionality) However, everyone has different ideas of what a good UI and UX revolves around. I'll go into a few different schools of thought.
 
 ### Types of UIs:
 
@@ -90,13 +90,15 @@ If you're looking for something a little bit more *ambitious* than good ol' Mate
 
 ## The Demo!
 
-By its very nature of subjectivity, this demo will be rather trivial, but it will highlight, rather dramatically, the difference between no styling at all, the most basic use of a CSS framework, and then the correct usage of a CSS framework. We'll take a look at the HTML for the appropriate pages and explore the work required to style your pages. From there, if anyone has any questions or requests of websites to critique, etc. I'd be glad to address them.
+Because UI is rather subjective, this demo will be fairly trivial, but it will highlight, rather dramatically, the difference between no styling at all, the most basic use of a CSS framework, and then the correct usage of a CSS framework. We'll take a look at the HTML for the appropriate pages and explore the work required to style your pages. From there, if anyone has any questions or requests of websites to critique, etc. I'd be glad to address them.
 
 **No styling** [here](https://swmp-sblease.herokuapp.com/listing_bad/)
 
 **Basic CSS usage** [here](https://swmp-sblease.herokuapp.com/listing_med/)
 
 **Better CSS usage** [here](https://swmp-sblease.herokuapp.com/listing/)
+
+<!--Keep in mind this isn't a super stylistic website, at this point I will have already covered the different components in MaterializeCSS-->
 
 
 
