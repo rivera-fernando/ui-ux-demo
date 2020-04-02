@@ -54,7 +54,7 @@ The entire goal of designing a "good" UI and UX revolves around a happy user. Th
 
 ## Bad UI (personally)
 
-- [User Inyerface](https://userinyerface.com/) is the best example of what not to do, and we'll go through some aspects of it, but it was made to highlight these flaws.
+- [User Inyerface](https://userinyerface.com/) is the best example of what not to do, and we'll go through some aspects of it, but it was created to highlight these flaws, it was not the product of someone trying and failing to create a good UI.
 - [Arngren](http://arngren.net/)
 - [Pacific Northwest X-Ray Inc](http://www.pnwx.com/)
 
@@ -110,3 +110,6 @@ Please make your product responsive. Your components should resize accordingly t
 
 Not only should your website be visually appealing, but it should also be easy to use. And this isn't necessarily how easy it is to find a certain tab or know what a button does. In this context, I am talking about how the user is communicating with the product. Are they using a mouse, swiping with their finger, etc. There are too many considerations for me to list, but you must be cognizant of this when designing your product. For example, if the user is on a phone, without access to a browser scroll bar, swiping the length of the screen to get to the last entry of a table would be cumbersome! I'm sure you can think of other examples.
 
+
+
+## Questions?
