@@ -80,7 +80,7 @@ You've likely been told (and if you haven't, let me just say) "You don't need to
 
 **[MaterializeCSS](https://materializecss.com/)** is one of my personal favorites. (If you couldn't tell by now, I love pretty much all things Google, and Material Design is no exception). 
 
-- The Demo on styling will in fact be using a website that I worked on with my team at SwampHacks this year and then actually deployed and polished it up slightly. Check it out [here](https://swmp-sblease.herokuapp.com/).
+- The Demo on styling will in fact be using a website that I worked on with my team at SwampHacks this year and then actually deployed and polished it up slightly. Check it out [here](https://swmp-sblease.herokuapp.com/). Sidenote: if anyone wants me to do a demo on creating a webapp with Python, using [Django](https://www.djangoproject.com/), I'd be more than happy to another time.
 
 **[MaterialUI](https://material-ui.com/)** is a great one for React.
 
