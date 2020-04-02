@@ -98,5 +98,13 @@ By its very nature of subjectivity, this demo will be rather trivial, but it wil
 
 
 
-## Anything else?
+## Random UI/UX Topics and Considerations
+
+### Mobile
+
+Please make your product responsive. Your components should resize accordingly to device, and therefore window size. This is one of the magical uses of many CSS frameworks, and I urge you to take advantage of it. In the increasingly fast-paced lives that many of us live, and with the advances in mobile technology, many people are opting to visit websites on their phones. The next topic is closely related.
+
+### Interactions
+
+Not only should your website be visually appealing, but it should also be easy to use. And this isn't necessarily how easy it is to find a certain tab or know what a button does. In this context, I am talking about how the user is communicating with the product. Are they using a mouse, swiping with their finger, etc. There are too many considerations for me to list, but you must be cognizant of this when designing your product. For example, if the user is on a phone, without access to a browser scroll bar, swiping the length of the screen to get to the last entry of a table would be cumbersome! I'm sure you can think of other examples.
 
