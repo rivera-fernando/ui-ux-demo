@@ -98,7 +98,7 @@ Because UI is rather subjective, this demo will be fairly trivial, but it will h
 
 **Better CSS usage** [here](https://swmp-sblease.herokuapp.com/listing/)
 
-> Keep in mind this isn't a super stylistic website. At this point I will have already covered the different components in MaterializeCSS
+<!--Keep in mind this isn't a super stylistic website, at this point I will have already covered the different components in MaterializeCSS-->
 
 
 
