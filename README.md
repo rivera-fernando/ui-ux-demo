@@ -86,8 +86,17 @@ If you're looking for something a little bit more *ambitious* than good ol' Mate
 
 
 
-<!--DEMO HERE-->
+## The Demo!
+
+By its very nature of subjectivity, this demo will be rather trivial, but it will highlight, rather dramatically, the difference between no styling at all, the most basic use of a CSS framework, and then the correct usage of a CSS framework. We'll take a look at the HTML for the appropriate pages and explore the work required to style your pages. From there, if anyone has any questions or requests of websites to critique, etc. I'd be glad to address them.
+
+**No styling** [here](https://swmp-sblease.herokuapp.com/listing_bad/)
+
+**Basic CSS usage** [here](https://swmp-sblease.herokuapp.com/listing_med/)
+
+**Better CSS usage** [here](https://swmp-sblease.herokuapp.com/listing/)
 
 
 
-## Something else?
+## Anything else?
+
