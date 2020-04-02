@@ -36,7 +36,7 @@ The entire goal of designing a "good" UI and UX revolves around a happy user. Th
 
 ### UI Schools of Thought / Design Languages
 
-- [Material Design](material.io)
+- [Material Design](https://material.io)
   - I won't bore you with lines of text, just listen to my sweet voice.
 - Invisible UI
   - More listening
@@ -49,8 +49,8 @@ The entire goal of designing a "good" UI and UX revolves around a happy user. Th
 - [Cornell Tech](https://tech.cornell.edu/)
 - Most MLH hackathon websites ([Cornell](https://www.bigredhacks.com/), [UPenn](http://2019f.pennapps.com/), [etc.](https://mlh.io/seasons/na-2020/events))
 - [Prettier](https://prettier.io/)
-- [Typora](typora.io) (coincidentally what I used to make this document)
-- [Material Design](material.io) (obviously)
+- [Typora](https://typora.io) (coincidentally what I used to make this document)
+- [Material Design](https://material.io/) (obviously)
 
 ## Bad UI (personally)
 
