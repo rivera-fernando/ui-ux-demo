@@ -48,8 +48,8 @@ The entire goal of designing a "good" UI and UX revolves around a happy user. Th
 
 - [Cornell Tech](https://tech.cornell.edu/)
 - Most MLH hackathon websites ([Cornell](https://www.bigredhacks.com/), [UPenn](http://2019f.pennapps.com/), [etc.](https://mlh.io/seasons/na-2020/events))
-- [Prettier](https://prettier.io/)
-- [Typora](https://typora.io) (coincidentally what I used to make this document)
+- [Scale](https://scale.com/) and [Firewatch](http://www.firewatchgame.com/)
+- [Typora](https://typora.io) (coincidentally what I used to make this document, look into it if you write markdown)
 - [Material Design](https://material.io/) (obviously)
 
 ## Bad UI (personally)
@@ -57,6 +57,12 @@ The entire goal of designing a "good" UI and UX revolves around a happy user. Th
 - [User Inyerface](https://userinyerface.com/) is the best example of what not to do, and we'll go through some aspects of it, but it was created to highlight these flaws, it was not the product of someone trying and failing to create a good UI.
 - [Arngren](http://arngren.net/)
 - [Pacific Northwest X-Ray Inc](http://www.pnwx.com/)
+
+
+
+## Activity
+
+Now that I've discussed more or less the components of what makes a good UI and UX, lets put your skills to the test in this fun [quiz](https://cantunsee.space/) (its pretty far from a quiz). You'll be presented with two images, just select the one that seems more correct in terms of styling. I'll go through and talk about ones I think are most important or commonly messed up in real products.
 
 
 
