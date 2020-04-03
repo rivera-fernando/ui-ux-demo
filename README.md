@@ -18,7 +18,7 @@ While everyone seems to have their own definitions of UI and UX these days, I co
 
 
 
-## Everything's subjective
+## Everything's subjective...(kinda)
 
 The entire goal of designing a "good" UI and UX revolves around a happy user. The end-goal is keeping the user hooked, engaged, and wanting more. If they can enjoy using your product, there's a better chance they will keep using it and recommend it to their friends! (given it actually has proper functionality) However, everyone has different ideas of what a good UI and UX revolves around. I'll go into a few different schools of thought.
 
